@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  demo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-29T18:19:17.052841-04:00"
+    description: Demo nginx chart for testing a Helm chart repository on GitHub Pages
+    digest: 938250e6960632d4fb5f8cc88a10d65f2d0b927936c20ba816afdcb9cb1ac5d6
+    name: demo
+    type: application
+    urls:
+    - https://johnbedeir.github.io/demo-helm-chart/demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-10-29T18:19:17.052157-04:00"
